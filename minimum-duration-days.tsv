@@ -1,4 +1,4 @@
-state	expected_days
+state	expected_sick_days
 exposed-1	5.12
 exposed-2	6.3999999999999995
 exposed-3	7.999999999999999
