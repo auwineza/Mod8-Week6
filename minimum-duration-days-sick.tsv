@@ -1,0 +1,8 @@
+state	expected_days_sick
+exposed-1	5.12
+exposed-2	6.3999999999999995
+exposed-3	7.999999999999999
+recovered	0.0
+symptoms-1	9.999999999999998
+symptoms-2	6.666666666666666
+symptoms-3	3.333333333333333

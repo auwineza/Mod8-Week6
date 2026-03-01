@@ -1,0 +1,7 @@
+Acknowledgements
+
+I completed this assignment independently.
+
+I used standard Python libraries including numpy and pandas for matrix computations, linear algebra operations, and reading/writing TSV files. These libraries are consistent with the tools used in the course examples.
+
+I used ChatGPT as a learning aid to help clarify concepts related to Markov decision processes, value iteration, and policy evaluation. The tool was used to support understanding and debugging, but all code was reviewed, adapted, and implemented by me.
