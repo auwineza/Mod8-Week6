@@ -2,6 +2,6 @@ Acknowledgements
 
 I completed this assignment independently.
 
-I used standard Python libraries including numpy and pandas for matrix computations, linear algebra operations, and reading/writing TSV files. These libraries are consistent with the tools used in the course examples.
+Libraries used: numpy and pandas for reading/writing TSV files and performing matrix and linear algebra computations for policy evaluation and optimization.
 
-I used ChatGPT as a learning aid to help clarify concepts related to Markov decision processes, value iteration, and policy evaluation. The tool was used to support understanding and debugging, but all code was reviewed, adapted, and implemented by me.
+Generative AI: I used ChatGPT to clarify concepts and assist with debugging implementation details related to Markov decision processes, value iteration, and policy evaluation. I reviewed, adapted, and verified all code myself before submission.
