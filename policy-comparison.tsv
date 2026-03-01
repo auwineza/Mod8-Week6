@@ -1,4 +1,4 @@
-state	do_nothing_discomfort	minimum_discomfort	speed_discomfort
+state	do_nothing_discomfort	minimize_discomfort	speed_discomfort
 exposed-1	3.4133333333333327	0.75	0.8333333333333331
 exposed-2	4.266666666666666	1.5	1.6666666666666663
 exposed-3	5.333333333333332	3.0	3.3333333333333326
